@@ -1,6 +1,4 @@
-# Data_Encryption
-
-# Encryption and Frequency Analysis in Cryptography
+# Data Encryption
 
 ## Abstract
 
